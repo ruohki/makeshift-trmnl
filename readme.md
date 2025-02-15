@@ -1,3 +1,6 @@
+# Makeshift Trmnl
+![makeshift trmnl](cover.png)
+
 # BOM
 - [Display and Controller](https://www.amazon.de/Waveshare-Electronic-Interface-Bluetooth-Raspberry/dp/B07MB7SVHQ)
 > DISCLAIMER! This Microcontroller is not compatible with the original Firmware. However you can use a modified version of @jessereockz ESPHome Implementation on [Github](https://github.com/jesserockz/esphome-trmnl/)
