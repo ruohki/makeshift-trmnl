@@ -15,6 +15,14 @@
 - [100k Ohm Resistor](https://www.amazon.de/Innfeeltech-Toleranz-Widerstand-Projekt-Experimente/dp/B0CL6LTDZ5)
 - [10k Ohm Resistor](https://www.amazon.de/Innfeeltech-Toleranz-Widerstand-Projekt-Experimente/dp/B0CL6NGWQY)
 
+Not mandatory but good for a clean look
+- [Shrink Tubing](https://www.amazon.de/Pointool-St%C3%BCck-Schrumpfschlauch-Schrumpfschl%C3%A4uche-Automobilverkabelung/dp/B08N5246YB)
+- [Silicone Wiring](https://www.amazon.de/Fermerry-Litzendraht-Kupferdrahtspule-Elektrokabel-Kit-Anschlusskabelsatz/dp/B089CSCY8S)
+
+## Tools
+- [Soldering Iron](https://eleshop.de/pinecil-smart-mini-tragbarer-lotkolben.html)
+- [Crimp Tool](https://www.amazon.de/Crimpzange-Preciva-JST-XH-Kontakte-JST-XH-Stifte-Pin-Stecker-Kits/dp/B0CH37171Q)
+- Solder
 # Acknowledgement
 - Many thanks to the [Trmnl Team](https://usetrmnl.com) for this nice pice of Equipment
 - @jesserocks for the incredible work on the ESPHome alternative Firmware [Github](https://github.com/jesserockz/esphome-trmnl/))
