@@ -14,6 +14,7 @@
 - [Microswitch](https://www.amazon.de/gp/product/B088LZD9RX)
 - [100k Ohm Resistor](https://www.amazon.de/Innfeeltech-Toleranz-Widerstand-Projekt-Experimente/dp/B0CL6LTDZ5)
 - [10k Ohm Resistor](https://www.amazon.de/Innfeeltech-Toleranz-Widerstand-Projekt-Experimente/dp/B0CL6NGWQY)
+- [Blanko PCB](https://www.amazon.de/dp/B078HV79XX)
 
 Not mandatory but good for a clean look
 - [Shrink Tubing](https://www.amazon.de/Pointool-St%C3%BCck-Schrumpfschlauch-Schrumpfschl%C3%A4uche-Automobilverkabelung/dp/B08N5246YB)
